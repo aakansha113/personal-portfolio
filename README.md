@@ -69,15 +69,15 @@ http://localhost:8080
 ```
 
 ### 🛠️ Technologies Used
-1-Frontend
+#### Frontend
 
-2-HTML5
+1-HTML5
 
-CSS3
+2-CSS3
 
 3-JavaScript
 
-### DevOps Tools Highlighted
+#### DevOps Tools Highlighted
 
 1-Docker
 
