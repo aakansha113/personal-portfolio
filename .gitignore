@@ -1,0 +1,32 @@
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependency directories
+node_modules/
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Editor-specific
+.vscode/
+.idea/
+
+# Cache
+.cache/
+*.cache
+
+# OS files
+ehthumbs.db
+Icon?
