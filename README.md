@@ -47,7 +47,7 @@ my-portfolio/
 - Exposes port 80
 - Runs Nginx in the foreground
   
-### 📥 Clone This Repository
+## 📥 Clone This Repository
 
 To clone this portfolio on your local system, run:
 ```
