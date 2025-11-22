@@ -1,4 +1,4 @@
-# personal-portfolio Website(Docker + nginx)
+# Personal Portfolio Website(Docker + nginx)
 A minimalist, Dockerized personal portfolio site using Nginx (Alpine image) for high performance and easy deployment.
 
 ## Features
