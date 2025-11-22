@@ -53,14 +53,20 @@ my-portfolio/
 ### 🐳 Docker Setup:
 
 #### Build the Docker Image
-```$docker build -t my-portfolio .```
+```
+$docker build -t my-portfolio .
+```
 
 #### Run the Container
-```$docker run -p 8080:80 my-portfolio```
+```
+$docker run -p 8080:80 my-portfolio
+```
 
 #### Now open:
 
-```http://localhost:8080```
+```
+http://localhost:8080
+```
 
 ### 🛠️ Technologies Used
 1-Frontend
