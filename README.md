@@ -73,7 +73,6 @@ http://localhost:8080
 ```
 
 ### 🛠️ Technologies Used
-#### Frontend
 
 1-HTML5
 
@@ -81,9 +80,7 @@ http://localhost:8080
 
 3-JavaScript
 
-#### DevOps Tools Highlighted
-
-1-Docker
+4-Docker
 
 ### ⭐ Show Your Support
 
