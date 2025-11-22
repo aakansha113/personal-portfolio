@@ -58,12 +58,12 @@ git clone https://github.com/aakansha113/my-portfolio.git
 
 #### Build the Docker Image
 ```
-$docker build -t my-portfolio .
+docker build -t my-portfolio .
 ```
 
 #### Run the Container
 ```
-$docker run -p 8080:80 my-portfolio
+docker run -p 8080:80 my-portfolio
 ```
 
 #### Now open:
