@@ -3,8 +3,6 @@ A minimalist, Dockerized personal portfolio site using Nginx (Alpine image) for 
 
 ## Features
 
-🚀 Features
-
 🎨 Modern UI — Clean, minimal, and responsive design
 
 🐳 Dockerized — Run your portfolio anywhere with one command
@@ -48,7 +46,13 @@ my-portfolio/
 - Copies your website files into Nginx's root HTML directory
 - Exposes port 80
 - Runs Nginx in the foreground
+- 
+### 📥 Clone This Repository
 
+To clone this portfolio on your local system, run:
+```
+git clone https://github.com/aakansha113/my-portfolio.git
+```
 ## Getting Started
 ### 🐳 Docker Setup:
 
