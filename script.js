@@ -1,3 +1,4 @@
+
 // script.js - premium animation + responsive nav + reveal + small UI tweaks
 (function () {
   "use strict";
